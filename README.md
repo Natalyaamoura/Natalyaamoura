@@ -1,23 +1,23 @@
 ## Bem vindx :)
 
 
-### Olá! Eu sou a Natalya Moura 😊
-<img align="right" alt="naty-CSS" height="200" width="200" src="https://i.picasion.com/pic91/d1364f6d314666907ac7d8fce1a4eca1.gif"/>
+### Olá! Eu sou a Naty Moura 😊
+<img align="right" alt="naty-CSS" height="100" width="100" src="https://i.picasion.com/pic91/d1364f6d314666907ac7d8fce1a4eca1.gif"/>
 
 
 - 🔭 Atualmente trabalhando como Assistente de Testes automatizados na Sofist
 - 🌱 Estudando Análise e desenvolvimento de sistemas
 - 📩 Contate-me no email: natalyaamoura@gmail.com
-
 #
 
  <div>
   <a href="https://github.com/Natalyaamoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natalyaamoura&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Natalyaamoura&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalyaamoura&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
+ 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="naty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="naty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
