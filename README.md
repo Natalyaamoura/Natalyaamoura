@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente trabalhando como Assistente de Testes automatizados na Sofist
 - 🌱 Estudando Análise e desenvolvimento de sistemas
-- 📩 Contate-me no email: natalyaamoura@gmail.com
+
 #
 
  <div>
