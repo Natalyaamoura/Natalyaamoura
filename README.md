@@ -11,8 +11,8 @@
 
  <div>
   <a href="https://github.com/Natalyaamoura">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Natalyaamoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalyaamoura&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natalyaamoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalyaamoura&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  
