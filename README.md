@@ -5,13 +5,14 @@
 <img align="right" alt="naty-CSS" height="100" width="100" src="https://i.picasion.com/pic91/d1364f6d314666907ac7d8fce1a4eca1.gif"/>
 
 
-- 🔭 Atualmente trabalhando como Assistente de Testes automatizados na Sofist
-- 🌱 Estudando Análise e desenvolvimento de sistemas
+- 💻 Atualmente trabalhando como Assistente de Testes automatizados na Sofist
+- 🤓 Estudando Análise e desenvolvimento de sistemas
+- ⚛  Fomada em Química 
 
  <div>
   <a href="https://github.com/Natalyaamoura">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Natalyaamoura&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalyaamoura&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Natalyaamoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalyaamoura&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  
