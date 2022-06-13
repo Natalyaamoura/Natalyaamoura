@@ -5,7 +5,7 @@
 <img align="right" alt="naty-CSS" height="100" width="100" src="https://i.picasion.com/pic91/d1364f6d314666907ac7d8fce1a4eca1.gif"/>
 
 
-- 💻 Atualmente trabalhando como Analista de Testes automatizados na Biz
+- 💻 Atualmente trabalhando como Analista de Testes automatizados e QA pleno na Biz
 - 🤓 Estudando Análise e desenvolvimento de sistemas
 - ⚛  Fomada em Química 
 
